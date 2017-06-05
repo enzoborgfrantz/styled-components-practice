@@ -1,3 +1,3 @@
-export const helloWorld = () => "hello world";
-
-export default helloWorld;
+export default function () {
+  return 'hello world u wot';
+}
