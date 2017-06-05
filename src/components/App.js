@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import React from 'react';
-import helloWorld from '../../modules/hello.module';
+import helloWorld from '../modules/hello.module';
 
 const Wrapper = styled.div`
   padding: 5px;
