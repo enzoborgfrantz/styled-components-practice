@@ -1,7 +1,8 @@
-# react-boiler
+# styled-components-practice
 Boilerplate Project for React.
 
 > Simple setup that comes with hot-reloading, styled-components, and test setup with watch and coverage
+> Primarily for learning and practicing react styled-components
 
 ### Scripts
 
